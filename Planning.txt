@@ -1,1 +1,7 @@
-We are Starting Our Project
+                        💫 We are Starting Our Project 💫
+
+install the next.js Running npx create-next-app@latest finance-app will create a new Next.js application named finance-app using the latest version of the Next.js starter template. Here's what the command does:
+          👉"npx create-next-app@latest finance-app"
+|--> npx: Executes the create-next-app package without needing to install it globally.
+|--> create-next-app@latest: Uses the latest version of the create-next-app package to create a new Next.js project.
+|--> finance-app: The name of your new project folder.
