@@ -1,7 +1,16 @@
                         💫 We are Starting Our Project 💫
 
 install the next.js Running npx create-next-app@latest finance-app will create a new Next.js application named finance-app using the latest version of the Next.js starter template. Here's what the command does:
-          👉"npx create-next-app@latest finance-app"
+          1. 👉"npx create-next-app@latest finance-app"
 |--> npx: Executes the create-next-app package without needing to install it globally.
 |--> create-next-app@latest: Uses the latest version of the create-next-app package to create a new Next.js project.
 |--> finance-app: The name of your new project folder.
+
+Running npx shadcn-ui@latest init will initialize the shadcn-ui setup in your project, integrating a set of pre-designed and customizable UI 
+components built on top of popular frameworks like React and Tailwind CSS.
+          2. 👉"npx shadcn-ui@latest init"   
+    🌟Follow the Prompts:
+        |--> After running the command, you'll be prompted to choose options for configuring the UI components in your project. The prompts might include:
+            |--> Selecting the framework (e.g., React).
+            |--> Choosing whether to install Tailwind CSS if it's not already installed.
+            |--> Configuring theme options or customizing component styles.
