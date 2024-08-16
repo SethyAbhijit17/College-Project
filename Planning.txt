@@ -14,3 +14,9 @@ components built on top of popular frameworks like React and Tailwind CSS.
             |--> Selecting the framework (e.g., React).
             |--> Choosing whether to install Tailwind CSS if it's not already installed.
             |--> Configuring theme options or customizing component styles.
+
+            a. npx shadcn-ui@latest add button
+            
+➡️ why we create a folder like [[...sign-in]] ? https://docs.google.com/document/d/1JUpo6xhKgJKbDvq3Md7NgkgMdu_9bVOAsMhoYr5unew/edit?usp=sharing
+
+➡️ why we create a folder like (dashboard) ? https://docs.google.com/document/d/1IMr6DEzPMa5lL5bXsoRYbx3MNY5DPO9D5NERy_-crA8/edit?usp=sharing
